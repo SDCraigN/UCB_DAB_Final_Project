@@ -38,5 +38,5 @@ Nick Nasse
 Craig Nowakowski
 Hayden Rubin
 
-![] https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gainsharing.com%2Fhelp-supervisors-slackers%25E2%2580%258B%25E2%2580%258B%25E2%2580%258B%25E2%2580%258B%25E2%2580%258B%25E2%2580%258B%25E2%2580%258B%2F&psig=AOvVaw3ao2uiQUMExzHpqb9Rf5fe&ust=1605469135390000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCd4-nkgu0CFQAAAAAdAAAAABAJ
+![] 
 
