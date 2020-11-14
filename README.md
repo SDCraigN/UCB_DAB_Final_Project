@@ -4,6 +4,7 @@ In this project we were tasked with finding a problem worth solving, analyzing, 
 
 We will be looking at average weather temperatures and CO2 emmisions to evalute whether or not climate change is an actual problem in America or not. 
 
+![Global Warming](https://www.psychologicalscience.org/redesign/wp-content/uploads/2017/01/Earth-melting-above-ocean-e1485893153798-609x419.jpg)
 
 ## Getting Started
 Create a front-end interface that maps to an API to “smarten” the algorithm.
