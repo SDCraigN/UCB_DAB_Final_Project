@@ -38,5 +38,5 @@ Nick Nasse
 Craig Nowakowski
 Hayden Rubin
 
-![]slacker.png
+![](slacker.png)
 
