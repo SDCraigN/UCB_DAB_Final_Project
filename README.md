@@ -38,5 +38,5 @@ Nick Nasse
 Craig Nowakowski
 Hayden Rubin
 
-![Logo](https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd-1024-80.jpg)
+![Logo](https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/b3/3a/a1/b33aa167-5a3a-1a09-332e-61d750453e28/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png)
 
