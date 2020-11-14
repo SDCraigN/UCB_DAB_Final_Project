@@ -38,5 +38,5 @@ Nick Nasse
 Craig Nowakowski
 Hayden Rubin
 
-! [](slacker.png)
+! [Name tag](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativebloq.com%2Fnews%2Fslack-tries-to-improve-logo-but-makes-things-worse&psig=AOvVaw2l5fnnofNXyhj1FC-sCy8K&ust=1605469872073000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDel77ngu0CFQAAAAAdAAAAABAD)
 
