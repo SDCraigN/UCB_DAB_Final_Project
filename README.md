@@ -1,6 +1,6 @@
 #  Demystifying ML: US Global Warming
  
-In this project we were tasked with finding a problem worth solving, analyzing, or visualizing. After some consideration we landed on the topic of global warming. In America, one's view climate change is often depends on where they live. The majority of U.S. adults say they are taking some specific action in their daily lives to protect the environment and that 62% say climate change is at least having some impact on their local community. Most Pacific states followed by the Northeast see climate change as affecting their local areas.  [PEW Research Center, 11/22/2019.]
+In this project we were tasked with finding a problem worth solving, analyzing, or visualizing. After some consideration we landed on the topic of global warming. In America, one's view of climate change often depends on where they live. The majority of U.S. adults say they are taking some specific action in their daily lives to protect the environment and that 62% say climate change is at least having some impact on their local community. Most Pacific states followed by the Northeast see climate change as affecting their local areas.  [PEW Research Center, 11/22/2019.]
 
 We will be looking at average weather temperatures and CO2 emmisions to evalute whether or not climate change is an actual problem in America or not. 
 
@@ -38,5 +38,5 @@ Nick Nasse
 Craig Nowakowski
 Hayden Rubin
 
-! [Logo](/images/slacker.png)
+![Logo](/images/slacker.png)
 
