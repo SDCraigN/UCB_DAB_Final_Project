@@ -5,11 +5,10 @@ In this project we were tasked with finding a problem worth solving, analyzing, 
 We will be looking at average weather temperatures and CO2 emmisions to evalute whether or not climate change is an actual problem in America or not. 
 
 
-## Getting Started
+## Getting Started -- Example Projects
 Create a front-end interface that maps to an API to “smarten” the algorithm.
 Perform a deep dive of existing data using machine learning.
-Create a visualization that continues to learn where clusters lie based on ML.
-(Use D3 or Plotly to change the visualization.)
+Create a visualization that continues to learn where clusters lie based on ML (Use D3 or Plotly to change the visualization.)
 Create an idea with mock data that simulates how machine learning might be used.
 Create an analysis of existing data to make a prediction, classification, or regression.
  
@@ -38,5 +37,5 @@ Nick Nasse
 Craig Nowakowski
 Hayden Rubin
 
-! [Name tag](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativebloq.com%2Fnews%2Fslack-tries-to-improve-logo-but-makes-things-worse&psig=AOvVaw2l5fnnofNXyhj1FC-sCy8K&ust=1605469872073000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDel77ngu0CFQAAAAAdAAAAABAD)
+! [](slacker.png)
 
