@@ -38,5 +38,5 @@ Nick Nasse
 Craig Nowakowski
 Hayden Rubin
 
-![Logo](/images/slacker.png)
+![Logo](https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd-1024-80.jpg)
 
