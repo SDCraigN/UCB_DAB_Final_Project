@@ -61,6 +61,11 @@ Created a Google BigQuery cloud data warehouse and uploaded the two datasets. Fr
 
 Output - converted the yearly averages into CSVs that were then exported and hosted on Google Storage so that they could be used in Tableau (Visualizations) and Pyspark (Machine Learning)
 
+## Machine Learning
+
+On a Google Colab notebook, we used PySpark as opposed to SciKit Learn and Pandas to conduct our multiple linear regression. We chose PySpark instead because Pandas kept crashing due to the large nature of our intended dataframe.
+
+The independent variables that we chose are latitude, elevation, average CO2 emissions, average dewpoint, and year. The dependent variable is average temperature (Fahrenheit) recorded at each data point (which were weather stations). 
 
 ## A Slack-Errr production by 
 Nick Nasse
