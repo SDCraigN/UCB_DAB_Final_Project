@@ -52,11 +52,12 @@ On a Google Colab notebook, we used PySpark as opposed to SciKit Learn and Panda
 The independent variables were year, latitude, elevation, and average atmospheric carbon dioxide. The dependent variable was average temperature (Fahrenheit) recorded at each data point (which were weather stations). 
 
 **Summary**
+
 Train
 * RMSE = 4.38
 * R2 = 0.86
 
-**Test**
+Test
 * RMSE = 4.29
 * R2 = 0.86
 
