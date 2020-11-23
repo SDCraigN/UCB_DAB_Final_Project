@@ -46,10 +46,12 @@ Output - converted the yearly averages into CSVs that were then exported and hos
 ## Machine Learning: Training & Testing
 
 **Method**
+
 On a Google Colab notebook, we used PySpark as opposed to SciKit Learn and Pandas to conduct our multiple linear regression. We chose PySpark instead because Pandas kept crashing due to the large nature of our intended dataframe.
 
 **Variables**
-The independent variables were year, latitude, elevation, and average atmospheric carbon dioxide. The dependent variable was average temperature (Fahrenheit) recorded at each data point (which were weather stations). 
+
+The independent variables were year (1975-2016), latitude, elevation (Meters), and average atmospheric carbon dioxide (PPM). The dependent variable was average temperature (Fahrenheit) recorded at each data point (which were weather stations). 
 
 **Summary**
 
