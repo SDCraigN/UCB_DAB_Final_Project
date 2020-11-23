@@ -60,6 +60,24 @@ Test
 * RMSE = 4.29
 * R2 = 0.86
 
+## Machine Learning: Predictions
+After training and testing, we used the model to predict what the **average yearly temperature** would be **for each US state capital in 2025, 2040 and 2055.**
+
+**Inputs**
+* Years = 2025, 2040, 2055
+* Latitude = each capital’s latitude
+* Elevation = each capital’s elevation (or mean elevation if the city contained drastic elevation changes)
+* CO2 = see below
+
+For the purpose of this prediction, we calculated the average yearly CO2 for our input years by taking the growth rates for the 15, 25 and 40 years leading up to our last year of data, which was 2016, and applying that to 2015. 
+* 2007-2016 = 5% Growth | 2025 = 424.49 CO2 (PPM)
+* 1992-2016 = 13% Growth | 2040 = 456.83 CO2 (PPM)
+* 1977-2016 = 21% Growth | 2055 = 489.18 CO2 (PPM)
+
+## Visualizations
+
+Link to Tableau page
+
 
 ## A Slack-Errr production by 
 Nick Nasse
