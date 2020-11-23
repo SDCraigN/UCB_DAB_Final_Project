@@ -47,16 +47,16 @@ This dataset includes a monthly observation of atmospheric carbon dioxide (or CO
 
 Created a Google BigQuery cloud data warehouse and uploaded the two datasets. From there,  we used SQL Queries to combine the data into tables that could be translate read into our Machine Learning Algorithm and Visualizations. 
 
-1) Combine the daily weather stations’ readings (temp, dew, etc) with the station characteristic data (name, latitude, longitude) and filter down by US stations. 
+1) Combine the daily weather stations’ readings with the station location & name data and filter down by US stations. 
 ![Query 1](https://github.com/SDCraigN/UCB_DAB_Final_Project/blob/main/Images/BigQuery_1.png)
 
-2) Compute Stations’ Monthly Weather Averages
+2) Compute stations’ yearly temperature averages (F)
 ![Query 2](https://github.com/SDCraigN/UCB_DAB_Final_Project/blob/main/Images/BigQuery_2.png)
 
-3) Combine Monthly Station Weather Data with the Monthly CO2 Data from the Mauna Loa dataset
+3) Compute yearly average atmospheric carbon dioxide (ppm)
 ![Query 3](https://github.com/SDCraigN/UCB_DAB_Final_Project/blob/main/Images/BigQuery_3.png)
 
-4) Compute Yearly Averages for the combine Weather and CO2 datasets
+4) Combine the average temperature and carbon dioxide datasets
 ![Query 4](https://github.com/SDCraigN/UCB_DAB_Final_Project/blob/main/Images/BigQuery_4.png)
 
 Output - converted the yearly averages into CSVs that were then exported and hosted on Google Storage so that they could be used in Tableau (Visualizations) and Pyspark (Machine Learning)
