@@ -77,9 +77,20 @@ For the purpose of this prediction, we calculated the average yearly CO2 for our
 * 1992-2016 = 13% Growth | 2040 = 456.83 CO2 (PPM)
 * 1977-2016 = 21% Growth | 2055 = 489.18 CO2 (PPM)
 
+## Observations
+
+Our model appears to have predicted the future average temperatures of US capital cities pretty accurately; albeit forebodingly…
+* Honolulu, 2019 Avg Temp = 78 (Actual) 
+* Honolulu, 2025 Avg Temp =  79.03 (Predicted)
+
+From 2025 onwards, our model predicts ~ .3 increase in temperature across all regions
+
+Our data definitely shows that increasing CO2 levels are causing US & global temperatures to rise. These temperature rises will soon have an irreversible impact on the world we know today……unless we do something!
+
+
 ## Visualizations
 
-Link to Tableau page
+https://public.tableau.com/profile/nick.nasse#!/vizhome/USCapitalsTempPredictions/USClimateChange
 
 
 ## A Slack-Errr production by 
