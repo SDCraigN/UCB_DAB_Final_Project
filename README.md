@@ -14,6 +14,13 @@ Our project analyzed existing data to make a prediction on temperature change us
 * Machine Learning: PySpark ML
 * Visualization: Tableau
 
+## Documents Guide
+
+* TrainTest_Data Folder = csvs that contain the formated data from Google BigQuery which we used in our ML Learning and Visualizations 
+* ML_Training_Testing_Predictions.ipynb = Jupyter Notebook containing our the training, testing and summarization of our ML algorithm and then the predictions it made when fed new data. 
+* capital_predictions.csv = the predictions the ML Model made in CSV format
+* "Final Project Preso".ppt = final project presentation
+* Tableau Link = https://public.tableau.com/profile/nick.nasse#!/vizhome/USCapitalsTempPredictions/USClimateChange
 
 ## Data
 
